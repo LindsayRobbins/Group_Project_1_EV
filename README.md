@@ -14,10 +14,11 @@ Analyzing the pros/cons of owning an EV vs an ICE vehicle
 # Datasets to be Used
 - https://developer.edmunds.com/api-documentation/vehicle/ 
 - https://www.carmd.com/api/vehicle-maintenance-carmd-api/
-- https://www.climatiq.io/
+- https://data.bls.gov/timeseries/APU000072610?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true
 - https://www.carboninterface.com/vehicles
 - https://afdc.energy.gov/vehicles/electric_emissions.html
 - https://afdc.energy.gov/vehicle-registration
 - https://zylalabs.com/api-marketplace/tools/carbon+footprint+tracker+api/1015
 - https://afdc.energy.gov/calc/cost_calculator_methodology.html#sources
 - https://developers.enode.com/api/reference#introduction
+- https://www.eia.gov/dnav/pet/pet_pri_gnd_a_epm0_pte_dpgal_w.htm
